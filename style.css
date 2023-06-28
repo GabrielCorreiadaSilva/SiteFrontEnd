@@ -1,0 +1,62 @@
+#banner{
+    width: 100%;
+}
+
+#quadrinhos{
+    width: 450px;
+    margin-left: 425px;
+}   
+
+#Nike{
+    width: 450px;
+    margin-left: 425px;
+}
+
+#carrinhos{
+    width: 450px;
+    margin-left: 425px;
+}
+
+.titulo-principal{
+    text-align: center;
+    color: white;
+    font-size: 100px;
+
+}
+
+.titulo-centralizado{
+    text-align: center;
+    color: white;
+    font-size: xx-large;
+}
+
+.itens{
+    font-size: 35px;
+    color:rgba(59, 59, 236, 0.705);
+    font-variant: small-caps;
+    list-style: none;
+    margin-left: 480px;
+}
+
+#Sobresite{
+    margin-top: -31px;
+    background-color: white;
+    color: black;
+    font-size: 25px;
+}
+
+#titulosobre{
+    color: red;
+}
+
+#cordosite{
+    background-color: black;
+}
+
+#Onossosite{
+    font-size: 33px;
+}
+
+#entrada{
+    color: white;
+}
